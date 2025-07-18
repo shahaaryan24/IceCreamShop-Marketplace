@@ -1,5 +1,5 @@
-# CS-180-Project-5
-CS 180 Capstone Project
+# CS-180-Capstone-Reuploaded
+This was the Project submitted for my CS-180 Project in Decemeber 2023.
 
 # Group Members
 Aaryan Shah <br />
