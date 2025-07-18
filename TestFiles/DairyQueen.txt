@@ -1,0 +1,3 @@
+Hazelnut Espresso,DairyQueen,Hazelnut Espresso ice cream is a sophisticated and indulgent trea.,2,7.99
+Banana Nut,DairyQueen,Banana Nut ice cream is a delightful creamy banana-flavored ice cream.,1,3.99
+Pineapple Coconut,DairyQueen,Pineapple Coconut ice cream is a tropical paradise in every scoop.,4,7.0

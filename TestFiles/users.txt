@@ -1,0 +1,3 @@
+john|11|Seller|DairyQueen
+jane|11|Seller|StoreA
+sruti|a|Customer|nostore

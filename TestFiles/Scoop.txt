@@ -1,0 +1,3 @@
+Vanilla,Scoop,Ice Cream,6,3.49
+Peach,Scoop,Ice Cream,1,5.49
+Pineapple,Scoop,Ice cream,5,4.99
