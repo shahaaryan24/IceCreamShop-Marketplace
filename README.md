@@ -24,7 +24,7 @@ products when first starting the application. <br />
 6. Finally, the files we have tested with have been provided down below, in case one should want to test with them.
 7. Statistics was the optional feature implemented by our team.
 
-#Test Files Note: 
+# Test Files Note: 
 You will need to add an empty StoreATransaction.txt file and an empty DairyQueen.txt file
 
 # Classes
