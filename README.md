@@ -27,11 +27,6 @@ products when first starting the application. <br />
 Test Files: https://drive.google.com/drive/folders/1BsPBJ9fBne8xH5Vbtjgp2p5Q8rwRCn4n?usp=drive_link <br />
 Note: You will need to add an empty StoreATransaction.txt file and an empty DairyQueen.txt file
 
-# Submission
-This project was submitted by Sruti Karumanchi in Vocareum. <br />
-The report was submitted by Aaryan Shah on BrightSpace. <br />
-The presentation was submitted by Sruti Karumanchi on BrightSpace. <br />
-
 # Classes
 Client <br />
 CreateCustomerPanel <br />
